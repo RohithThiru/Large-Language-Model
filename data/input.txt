@@ -1,0 +1,5 @@
+hello world
+hello tiny language model
+this is our first language model
+we are building a small llm from scratch
+language models predict the next token
